@@ -7,4 +7,4 @@
 
 ## App Development Team
 * MUTHU RAMAN
-* Surya prabha s
+* SURYA PRABHA S
